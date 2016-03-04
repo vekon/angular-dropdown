@@ -1,0 +1,37 @@
+.drop-down{
+	margin: 10px;
+	width: 150px;
+	cursor: pointer;
+}
+.header{
+	width: 150px;
+	border: solid 1px #ccc;
+	position: relative;
+	box-shadow: 1px 1px 2px 1px #ccc;
+}
+.list{
+	width: 150px;
+	border: solid 1px #ccc;
+	border-top: 0px;
+	position: absolute;
+	background: #fff;
+	box-shadow: 1px 1px 2px 1px #ccc;
+}
+.list-container{
+	width: 150px;
+}
+.list-container:hover{
+	background: #337ab7;
+	color:#fff;
+}
+.list-value{
+	display: inline-block;
+	padding: 10px;
+}
+.drop-down-icon{
+	color: #337ab7;
+	position: absolute;
+    right: 10px;
+    top: 14px;
+    font-size: 12px;
+}
