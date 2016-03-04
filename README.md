@@ -1,3 +1,3 @@
 # angular-dropdown
 
-Angular dropdown which opens on mouse over
+Angular dropdown directive which opens on mouse over
